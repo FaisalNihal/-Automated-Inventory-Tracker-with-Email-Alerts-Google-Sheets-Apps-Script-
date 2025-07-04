@@ -40,7 +40,6 @@ This project is a smart inventory tracking system built using **Google Sheets** 
 ---
 
 ## 📧 Sample Email Output
-![Email_Alert_Sample](https://github.com/user-attachments/assets/39aa0d22-ed95-4351-ae9e-cc749af51a8a)
-
+![Sample_Email_Alert](https://github.com/user-attachments/assets/20f2d5f8-4b8b-48f5-9ad4-88ea6f4925c4)
 
 
